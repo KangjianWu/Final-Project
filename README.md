@@ -5,9 +5,10 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### How to run the project
 ```
 npm run dev
+Click on the generated URL
 ```
 
 ### Compiles and minifies for production
