@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: process.env.NODE_ENV === 'production' ? '/Kangjian Wu/' : '/'
+  publicPath: process.env.NODE_ENV === 'production' ? '/Final-Project/' : '/'
 }
