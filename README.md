@@ -8,9 +8,8 @@ npm install
 ### How to run the project
 ```
 npm run dev
-Click on the generated URL
 ```
-
+Click on the generated URL
 ### Compiles and minifies for production
 ```
 npm run build
